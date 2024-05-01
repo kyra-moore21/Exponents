@@ -1,0 +1,14 @@
+C:\Users\kyram\source\repos\Exponents\Exponents\bin\Debug\net8.0\Exponents.exe
+C:\Users\kyram\source\repos\Exponents\Exponents\bin\Debug\net8.0\Exponents.deps.json
+C:\Users\kyram\source\repos\Exponents\Exponents\bin\Debug\net8.0\Exponents.runtimeconfig.json
+C:\Users\kyram\source\repos\Exponents\Exponents\bin\Debug\net8.0\Exponents.dll
+C:\Users\kyram\source\repos\Exponents\Exponents\bin\Debug\net8.0\Exponents.pdb
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\Exponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\Exponents.AssemblyInfoInputs.cache
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\Exponents.AssemblyInfo.cs
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\Exponents.csproj.CoreCompileInputs.cache
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\Exponents.dll
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\refint\Exponents.dll
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\Exponents.pdb
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\Exponents.genruntimeconfig.cache
+C:\Users\kyram\source\repos\Exponents\Exponents\obj\Debug\net8.0\ref\Exponents.dll
